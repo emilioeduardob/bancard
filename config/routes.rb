@@ -9,8 +9,4 @@ Bancard::Engine.routes.draw do
       post :process_id
     end
   end
-
-  namespace :api do
-    resources :token_payments
-  end
 end
