@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  status: 1
+  amount: 9.99
+  authorization_number: MyString
+  error_message: MyString
+  payable_type: MyString
+  payable_id: 1
+
+two:
+  status: 1
+  amount: 9.99
+  authorization_number: MyString
+  error_message: MyString
+  payable_type: MyString
+  payable_id: 1
